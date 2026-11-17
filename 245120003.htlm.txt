@@ -1,0 +1,10 @@
+<!DOCTYPE html>
+<htm>
+<head>
+</head>
+<body>
+<h1>This is Style attribute</h1>
+<p style="colour:blue">it will add style property in elment</p>
+<p style="color:red">it willchange thew color the color of content</p>
+</bpdy>
+</html>
